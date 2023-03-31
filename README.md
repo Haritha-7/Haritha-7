@@ -1,5 +1,5 @@
 ### Hi 👋, I am Haritha.
-## I am currently learning Core Java.
+#### I am currently learning Core Java.
 
 <!--
 **Haritha-7/Haritha-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
