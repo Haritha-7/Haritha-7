@@ -1,6 +1,5 @@
-### Hi 👋
-** I am Haritha
-* I am currently leaning core java
+### Hi 👋,I am Haritha
+** I am currently learning core java**
 
 <!--
 **Haritha-7/Haritha-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
